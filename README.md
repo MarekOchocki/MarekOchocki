@@ -4,7 +4,7 @@ Hi, I’m @MarekOchocki
 
 For my private projects I use mainly C++ and SFML and recently I'm experimenting with GLSL shaders and interesting visual effects.
 I'm heavily clean-architecture and clean-code focused. I try to build my projects in such a way that I can easily reuse created code in multiple projects.
-It mailny comes down to splitting code into libraries (or modules outside c++). 
+It mainly comes down to splitting code into libraries (or modules outside c++). 
 
 Professionally I'm working as an Angular Web Developer. I'm familiar with Typescript, Node.js and NgRx.
 
