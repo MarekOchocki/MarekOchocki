@@ -13,7 +13,7 @@ C++ and SFML
 
 I've created a Metaballs project inspired by [this video](https://www.youtube.com/watch?v=6oMZb3yP_H8&t=1451s&ab_channel=Reducible).
 
-![Gif of multicolored filled Metaballs](https://github.com/MarekOchocki/MarekOchocki/assets/metaballs.gif)
+![Gif of multicolored filled Metaballs](https://github.com/MarekOchocki/MarekOchocki/blob/main/assets/metaballs.mov)
 
 ## Particles + Blur
 C++ and SFML
@@ -24,7 +24,7 @@ In this example we can see 6 layers:
 - 5 layers with particles of different color and mass
 - 1 blur layer that applies gaussian blur on rendered 5 particle layers
 
-![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/assets/blurParticles.gif)
+![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/blob/main/assets/blurParticles.mov)
 
 ## Ants
 repository: [Ants Repository](https://github.com/MarekOchocki/AntsProject)
@@ -33,11 +33,11 @@ This is a bigger project that includes implementation of artificial neural netwo
 These are combined with SFML to create artificial environment where "ants" are trying to learn to efficiently gather resources from chessboard-like board.
 
 At first they make random moves
-![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/assets/antsStart.mp4)
+![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/blob/main/assets/antsStart.mov)
 
 
 But after a moment the ants become pretty efficient in their task
-![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/assets/antsSmart.mp4)
+![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/blob/main/assets/antsSmart.mov)
 
 ## Contact
 
