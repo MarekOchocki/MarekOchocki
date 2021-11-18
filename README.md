@@ -33,10 +33,12 @@ This is a bigger project that includes implementation of artificial neural netwo
 These are combined with SFML to create artificial environment where "ants" are trying to learn to efficiently gather resources from chessboard-like board.
 
 At first they make random moves
+
 ![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/blob/main/assets/antsStart.gif)
 
 
 But after a moment the ants become pretty efficient in their task
+
 ![Gif of the example](https://github.com/MarekOchocki/MarekOchocki/blob/main/assets/antsSmart.gif)
 
 ## Contact
